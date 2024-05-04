@@ -10,7 +10,7 @@
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: When I'm not coding, you can find me swimming laps in the pool or strategizing my next move on the chessboard!
+⚡ Fun fact: Reading rewires your brain for higher intelligence and empathy.
 <!---
 yashodalasith/yashodalasith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
