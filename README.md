@@ -6,7 +6,7 @@
 
 💞️ I'm looking to collaborate on exciting projects that push the boundaries of innovation and make a positive impact on society.
 
-📫 Reach me through my LinkedIn profile: [Yashoda Lasith Jayasinghe](www.linkedin.com/in/yashodha-lasith-jayasinghe-1104122a3).
+📫 Reach me through my LinkedIn profile: [Yashoda Lasith Jayasinghe](https://www.linkedin.com/in/yashodha-lasith-jayasinghe-1104122a3/).
 
 😄 Pronouns: He/Him
 
