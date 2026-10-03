@@ -19,10 +19,6 @@ I build full-stack and backend systems — React/Node, FastAPI, and .NET — and
 
 ## Selected Projects
 
-#### [boseth-traders](https://github.com/yashodalasith/boseth-traders) — live at [bosethtraders.com](https://www.bosethtraders.com/)
-Full-stack e-commerce site built and deployed for a real business. Product catalog, cart, and an admin dashboard for inventory and sales, with Google/Facebook OAuth and image handling via Cloudinary.
-`React` `Vite` `Tailwind` `Express` `MongoDB` `JWT` `OAuth`
-
 #### [GeoExplorer-Deoplyment](https://github.com/yashodalasith/GeoExplorer-Deoplyment) — live [demo](https://geo-explorer-deoplyment-frontwork.vercel.app/)
 Country explorer built on the REST Countries API, with list, 2D map, and 3D globe views, search/filter, and saved favorites behind JWT auth. The only one of my projects with a full automated test suite — Vitest, React Testing Library, and mocked API tests.
 `React` `Leaflet` `React Three Fiber` `Express` `MongoDB` `Vitest`
