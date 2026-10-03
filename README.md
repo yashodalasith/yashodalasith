@@ -53,7 +53,7 @@ These repositories belong to teammates; the contributions below are the parts I 
 ## Education
 
 **BSc (Hons) in Information Technology, specializing in Software Engineering**
-Sri Lanka Institute of Information Technology (SLIIT) — GPA 3.40/4.00 — expected October 2026
+Sri Lanka Institute of Information Technology (SLIIT) — GPA 3.40/4.00 — graduated September 2026
 
 ---
 
